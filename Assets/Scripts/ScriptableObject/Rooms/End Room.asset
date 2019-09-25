@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ba7c8ac873cc6684d9dbc8698b23dbb7, type: 3}
-  m_Name: New Room
+  m_Name: End Room
   m_EditorClassIdentifier: 
   description: 
   roomName: 
