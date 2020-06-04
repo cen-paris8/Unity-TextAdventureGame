@@ -1,0 +1,20 @@
+Tuto :
+https://learn.unity.com/tutorial/recorded-video-session-text-adventure-game-part-1
+
+https://learn.unity.com/tutorial/recorded-video-session-text-adventure-game-part-2#
+
+Reference :
+
+Scriptable object :
+Overthrowing The Monobehaviour Tyranny In A Glorious ScriptableObject Revolution by Richard Fine.
+
+Serialize filed :
+https://blogs.unity3d.com/2014/06/24/serialization-in-unity/
+
+
+
+scriptable iA for delegate
+
+
+Here :
+https://learn.unity.com/tutorial/recorded-video-session-text-adventure-game-part-2#5c7f8528edbc2a002053b63d

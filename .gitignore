@@ -11,6 +11,9 @@ sysinfo.txt
 /Assets/AssetStoreTools*
 *.apk
 *.unitypackage
+*.exe
+*Game_Data/
+MonoBleedingEdge/
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -29,6 +32,8 @@ sysinfo.txt
 .consulo/
 /*.tmp
 /*.svd
+
+/*.dll
  
 # ============ #
 # OS generated #

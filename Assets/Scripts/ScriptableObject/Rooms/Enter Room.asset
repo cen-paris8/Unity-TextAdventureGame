@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ba7c8ac873cc6684d9dbc8698b23dbb7, type: 3}
-  m_Name: End Room
+  m_Name: Enter Room
   m_EditorClassIdentifier: 
-  description: 'You win !
-
-'
+  description: Type "go Dungeon" to begin
   roomName: 
-  exits: []
+  exits:
+  - keyString: dungeon
+    exitDescription: 
+    valueRoom: {fileID: 11400000, guid: 4ee779de317c1fa4a90c721593d7824f, type: 2}
   interactableObjectsInRoom: []

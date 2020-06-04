@@ -26,6 +26,8 @@ public class GameController : MonoBehaviour
         DisplayLoggedText();
     }
 
+                                                  
+
     public void DisplayLoggedText()
     {
         string LogAsText = string.Join("\n", actionLog.ToArray());

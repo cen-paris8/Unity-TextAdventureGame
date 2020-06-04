@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba7c8ac873cc6684d9dbc8698b23dbb7, type: 3}
   m_Name: Starting Room
   m_EditorClassIdentifier: 
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-    ornare gravida blandit. Nullam vehicula nunc dolor. Mauris id cursus nunc. '
-  roomName: Starting Name
+  description: The dungeon door shut behind you. You are in a maze of twisty little  passages,
+    all alike.
+  roomName: starting room
   exits:
   - keyString: north
     exitDescription: You see a dark doorway to the north
